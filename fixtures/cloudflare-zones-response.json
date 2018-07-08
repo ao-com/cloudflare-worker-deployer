@@ -1,0 +1,172 @@
+{
+    "result": [
+        {
+            "id": "nnEJBXpi3DnQze66Pej7wN0mA4gChXS5",
+            "name": "website-one.com",
+            "status": "active",
+            "paused": false,
+            "type": "full",
+            "development_mode": 0,
+            "name_servers": [
+                "incog.ns.cloudflare.com",
+                "nito.ns.cloudflare.com"
+            ],
+            "original_name_servers": [
+                "another1.ns.net",
+                "another2.ns.net"
+            ],
+            "original_registrar": null,
+            "original_dnshost": null,
+            "modified_on": "2014-03-03T08:11:04.170342Z",
+            "created_on": "2014-02-18T09:39:56.948106Z",
+            "vanity_name_servers": [],
+            "vanity_name_servers_ips": null,
+            "meta": {
+                "step": 3,
+                "wildcard_proxiable": true,
+                "custom_certificate_quota": 1,
+                "page_rule_quota": 100,
+                "phishing_detected": false,
+                "multiple_railguns_allowed": false
+            },
+            "owner": {
+                "id": "ZhlT17TgEhYufQL8hX3WYk1bQppy0cHb",
+                "type": "organization",
+                "name": "My Organisation"
+            },
+            "account": {
+                "id": "2kRhaphHLQtujUnljHTkdfGkmw6dUSJs",
+                "name": "My Organisation"
+            },
+            "permissions": [
+                "#access:edit",
+                "#access:read",
+                "#analytics:read",
+                "#app:edit",
+                "#billing:read",
+                "#cache_purge:edit",
+                "#dns_records:edit",
+                "#dns_records:read",
+                "#lb:edit",
+                "#lb:read",
+                "#legal:read",
+                "#logs:read",
+                "#member:read",
+                "#organization:edit",
+                "#organization:read",
+                "#ssl:edit",
+                "#ssl:read",
+                "#stream:edit",
+                "#stream:read",
+                "#subscription:edit",
+                "#subscription:read",
+                "#waf:edit",
+                "#waf:read",
+                "#webhooks:edit",
+                "#webhooks:read",
+                "#worker:edit",
+                "#worker:read",
+                "#zone:edit",
+                "#zone:read",
+                "#zone_settings:edit",
+                "#zone_settings:read"
+            ],
+            "plan": {
+                "id": "H4MQqcwg2gDvjKuRI99A2AxFLGGP9Z7Y",
+                "name": "Enterprise Website",
+                "price": 0,
+                "currency": "USD",
+                "frequency": "monthly",
+                "is_subscribed": true,
+                "can_subscribe": true,
+                "legacy_id": "enterprise",
+                "legacy_discount": false,
+                "externally_managed": true
+            }
+        },
+        {
+            "id": "zo1CQ7eLjsTLenZH0CMu4E6efy8VB8gf",
+            "name": "website-two.com",
+            "status": "active",
+            "paused": false,
+            "type": "full",
+            "development_mode": 0,
+            "name_servers": [
+                "incog.ns.cloudflare.com",
+                "nito.ns.cloudflare.com"
+            ],
+            "original_name_servers": [
+                "another1.ns.net",
+                "another2.ns.net"
+            ],
+            "original_registrar": null,
+            "original_dnshost": null,
+            "modified_on": "2015-06-04T15:09:00.224778Z",
+            "created_on": "2015-05-04T08:42:50.017337Z",
+            "vanity_name_servers": [],
+            "vanity_name_servers_ips": null,
+            "meta": {
+                "step": 3,
+                "wildcard_proxiable": true,
+                "custom_certificate_quota": 1,
+                "page_rule_quota": 100,
+                "phishing_detected": false,
+                "multiple_railguns_allowed": false
+            },
+            "owner": {
+                "id": "ZhlT17TgEhYufQL8hX3WYk1bQppy0cHb",
+                "type": "organization",
+                "name": "My Organisation"
+            },
+            "account": {
+                "id": "2kRhaphHLQtujUnljHTkdfGkmw6dUSJs",
+                "name": "My Organisation"
+            },
+            "permissions": [
+                "#access:edit",
+                "#access:read",
+                "#analytics:read",
+                "#app:edit",
+                "#billing:read",
+                "#cache_purge:edit",
+                "#dns_records:edit",
+                "#dns_records:read",
+                "#lb:edit",
+                "#lb:read",
+                "#legal:read",
+                "#logs:read",
+                "#member:read",
+                "#organization:edit",
+                "#organization:read",
+                "#ssl:edit",
+                "#ssl:read",
+                "#stream:edit",
+                "#stream:read",
+                "#subscription:edit",
+                "#subscription:read",
+                "#waf:edit",
+                "#waf:read",
+                "#webhooks:edit",
+                "#webhooks:read",
+                "#worker:edit",
+                "#worker:read",
+                "#zone:edit",
+                "#zone:read",
+                "#zone_settings:edit",
+                "#zone_settings:read"
+            ],
+            "plan": {
+                "id": "H4MQqcwg2gDvjKuRI99A2AxFLGGP9Z7Y",
+                "name": "Enterprise Website",
+                "price": 0,
+                "currency": "USD",
+                "frequency": "monthly",
+                "is_subscribed": true,
+                "can_subscribe": true,
+                "legacy_id": "enterprise",
+                "legacy_discount": false,
+                "externally_managed": true
+            }
+        }
+    ]
+}
